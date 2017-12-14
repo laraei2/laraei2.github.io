@@ -1,0 +1,13 @@
+body {
+	font-family: Arial Narrow, times, serif;
+	font-size: 16px;
+	font-weight: normal;
+	text-align: left;
+    border: solid 0.5px #c0c0c0;
+    width: 320px;
+    letter-spacing: 0.5px;
+    padding: 25px;
+    margin-left: 600px;
+    margin-top: 300px;
+    position: fixed;
+}

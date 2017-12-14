@@ -1,0 +1,72 @@
+html {
+    background-color: #fff;
+    font-family: times;
+}
+
+body {
+    font-family: Arial Narrow, times, serif;
+    
+}
+
+title {
+    font-family: arial, times;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial Narrow, times;
+    text-align: center; 
+    font-size: 38px;
+    font-weight: normal;
+    color: #374a6d;
+    border-right: solid 1.25px #ccc;
+    padding: 4px;
+    letter-spacing: 2px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 150px;     
+}
+
+h3 {
+    font-size:11px;
+    font-family: Verdana, Arial, Calibri, times;
+    font-weight: normal;
+    text-align: center;
+    margin-left: 603px;
+    position: fixed;
+}
+
+h4 {
+    font-family: Verdana, calibri, times;
+    font-weight: normal;
+    font-size: 12px;
+    width: 150px;
+    text-align: center;
+    color: #000;
+    font-style: normal;
+    margin-left: 782px;
+    position: fixed;
+    margin-top: -64px;
+}
+
+h5 {
+    font-family: helvetica, calibri, times;
+    font-weight: normal;
+    text-align: center;
+    border: solid 1px #ccc;
+    letter-spacing: 0.5px;
+    padding-right: 10px;
+    padding-left: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+    width: 360px;
+    line-height: 20px;
+    margin-left: 580px;
+    margin-top: 70px;
+    text-align: left;
+    
+}
